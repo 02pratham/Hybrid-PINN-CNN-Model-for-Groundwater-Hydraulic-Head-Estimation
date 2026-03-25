@@ -1,0 +1,8 @@
+./data/cnn_train_data/sample_00000008.npz
+./data/cnn_train_data/sample_00000004.npz
+./data/cnn_train_data/sample_00000003.npz
+./data/cnn_train_data/sample_00000009.npz
+./data/cnn_train_data/sample_00000006.npz
+./data/cnn_train_data/sample_00000007.npz
+./data/cnn_train_data/sample_00000010.npz
+./data/cnn_train_data/sample_00000005.npz

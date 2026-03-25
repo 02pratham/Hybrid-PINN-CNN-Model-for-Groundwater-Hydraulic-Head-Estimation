@@ -1,0 +1,1 @@
+./data/cnn_train_data/sample_00000001.npz
