@@ -1,0 +1,12 @@
+project/
+├─ data/                # generated random-field images and saved FoS labels
+├─ notebooks/           # experiments / visualization
+├─ src/
+│  ├─ data_gen.py       # FFT-MA sampling, interpolation -> images
+│  ├─ pinn.py           # PINN model, training, checkpointing
+│  ├─ kinematic.py      # discretized failure mechanism + FoS search
+│  ├─ cnn_model.py      # CNN architecture and training scripts
+│  ├─ eval.py           # validation, plotting, MCS driver
+├─ results/
+├─ requirements.txt
+└─ README.md
